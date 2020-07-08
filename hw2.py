@@ -1,8 +1,5 @@
 
-"""
-Imports we need.
-Note: You may _NOT_ add any more imports than these.
-"""
+
 import argparse
 import imageio
 import logging
